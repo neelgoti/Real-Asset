@@ -1,0 +1,1588 @@
+/*  xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx offline font conecty xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+/* poppins-300 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/poppins-v20-latin-300.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-300.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-300.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-300.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-300.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-300.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-regular - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/poppins-v20-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-regular.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-500 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/poppins-v20-latin-500.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-500.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-500.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-500.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-500.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-500.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-600 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/poppins-v20-latin-600.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-600.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-600.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-600.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-600.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-600.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-700 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/poppins-v20-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-700.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-700.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-700.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-700.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-700.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-800 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/poppins-v20-latin-800.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-800.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-800.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-800.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-800.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-800.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* quicksand-300 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/quicksand-v30-latin-300.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/quicksand-v30-latin-300.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/quicksand-v30-latin-300.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/quicksand-v30-latin-300.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/quicksand-v30-latin-300.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/quicksand-v30-latin-300.svg#Quicksand') format('svg');
+    /* Legacy iOS */
+}
+
+/* quicksand-regular - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/quicksand-v30-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/quicksand-v30-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/quicksand-v30-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/quicksand-v30-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/quicksand-v30-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/quicksand-v30-latin-regular.svg#Quicksand') format('svg');
+    /* Legacy iOS */
+}
+
+/* quicksand-500 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/quicksand-v30-latin-500.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/quicksand-v30-latin-500.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/quicksand-v30-latin-500.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/quicksand-v30-latin-500.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/quicksand-v30-latin-500.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/quicksand-v30-latin-500.svg#Quicksand') format('svg');
+    /* Legacy iOS */
+}
+
+/* quicksand-600 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/quicksand-v30-latin-600.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/quicksand-v30-latin-600.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/quicksand-v30-latin-600.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/quicksand-v30-latin-600.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/quicksand-v30-latin-600.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/quicksand-v30-latin-600.svg#Quicksand') format('svg');
+    /* Legacy iOS */
+}
+
+/* quicksand-700 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Quicksand';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/quicksand-v30-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/quicksand-v30-latin-700.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/quicksand-v30-latin-700.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/quicksand-v30-latin-700.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/quicksand-v30-latin-700.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/quicksand-v30-latin-700.svg#Quicksand') format('svg');
+    /* Legacy iOS */
+}
+
+
+/* ========================================== Default CSS ================================= */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Quicksand', sans-serif; */
+    background-color: #FAFAFA;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span {
+    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Quicksand', sans-serif; */
+}
+
+.container {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 0 12px;
+}
+
+ul,
+li,
+ol {
+    list-style: none !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+
+:root {
+    --white-color: #fff;
+    --black-color: #000;
+    --text-color: #37404d;
+    --p-teg-color: #464d65;
+    --blue-button-color: #155A9E;
+}
+
+.text-blue {
+    color: #155A9E !important;
+}
+
+.bg-blue {
+    background-color: #155A9E !important;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.ptb-60 {
+    padding: 60px 0;
+}
+
+.ptb-120 {
+    padding: 120px 0;
+}
+
+.mob_divice {
+    display: none;
+}
+
+/* =================== toggle icon csss ==================*/
+
+.toggle {
+    display: none !important;
+}
+
+.toggle {
+    position: relative;
+    width: 45px;
+    height: 45px;
+    background: #fff;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.08);
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    overflow: hidden;
+    border: 1px solid #bfdefb;
+}
+
+.toggle span {
+    position: absolute;
+    width: 35px;
+    height: 4px;
+    background: var(--blue-button-color);
+    border-radius: 10px;
+    transition: 0.5s;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.toggle span:nth-child(1) {
+    transform: translateY(-12px);
+    width: 35px;
+    left: 5px;
+}
+
+.toggle.active span:nth-child(1) {
+    width: 40px;
+    transform: translateY(0) rotate(45deg);
+    transition-delay: 0.125s;
+
+}
+
+.toggle span:nth-child(2) {
+    transform: translateY(8px);
+    width: 35px;
+    left: 5px;
+}
+
+.toggle.active span {
+    position: absolute;
+    left: 5%;
+    top: 50%;
+    transform: translatey(-50%);
+    background: var(--white-color);
+}
+
+.toggle.active {
+    background-color: var(--blue-button-color);
+}
+
+.toggle.active span:nth-child(2) {
+    width: 40px;
+    transform: translateY(0) rotate(315deg);
+    transition-delay: 0.25s;
+}
+
+.toggle.active span:nth-child(3) {
+    transform: translateX(60px);
+}
+
+/* ::selection {
+    color: red;
+    background: yellow;
+  } */
+
+/* ========================================== header section CSS ================================= */
+
+.bg_theme {
+    border-bottom: 1px solid #DDEDFC;
+}
+
+.logo img {
+    width: 142px;
+}
+
+.main_menu li a {
+    padding: 20px 25px;
+    color: var(--black-color);
+    transition: 0.3s;
+    font-weight: 500;
+    font-family: 'Poppins', sans-serif;
+}
+
+.main_menu li a.active,
+.main_menu li a:hover {
+    color: var(--blue-button-color);
+}
+
+.sub_btn {
+    border: 1px solid var(--blue-button-color);
+    color: var(--blue-button-color);
+    border-radius: 50px;
+    transition: 0.3s;
+}
+
+.sub_btn:hover {
+    background-color: var(--blue-button-color);
+    border: 1px solid var(--blue-button-color);
+    color: var(--white-color);
+}
+
+.sub_btn i {
+    animation: back-in 1s alternate infinite;
+}
+
+@keyframes back-in {
+    0% {
+        transform: translatex(-6px);
+    }
+
+    100% {
+        transform: translatex(px);
+    }
+}
+
+.sticky {
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+    animation: fead 1s ease-in-out;
+    z-index: 10;
+    background-color: var(--white-color);
+    border-bottom: 1px solid #DDEDFC;
+    box-shadow: 0px 2px 5px rgba(83, 165, 241, 0.25);
+
+}
+
+@keyframes fead {
+    0% {
+        transform: translateY(-100%);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+#scroll_top {
+    color: var(--blue-button-color);
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background-color: #DDEDFC;
+    border: 1px solid var(--blue-button-color);
+    text-align: center;
+    line-height: 50px;
+    font-size: 22px;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+    transition: 1s;
+    opacity: 0;
+    z-index: 6666;
+}
+
+#scroll_top i {
+    animation: up-down 1s alternate infinite;
+}
+
+@keyframes up-down {
+    0% {
+        transform: translatey(-4px);
+    }
+
+    100% {
+        transform: translatey(4px);
+    }
+}
+
+
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx   media Query start    xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+@media screen and (max-width:1199px) {
+    .main_menu li a {
+        padding: 15px 12px;
+        color: var(--black-color);
+        transition: 0.3s;
+        font-weight: 500;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .logo img {
+        width: 100px;
+    }
+}
+
+@media screen and (max-width:991px) {
+    .doc_divice {
+        display: none !important;
+    }
+
+    .mob_divice {
+        display: block !important;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        backdrop-filter: blur(1px) saturate(0%);
+        -webkit-backdrop-filter: blur(1px) saturate(0%);
+        background-color: rgba(255, 255, 255, 0.94);
+        border-radius: 12px;
+        border: 1px solid rgba(209, 213, 219, 0.3);
+        width: 100%;
+        z-index: 9;
+    }
+
+    .mob_main_menu li a {
+        color: var(--black-color);
+        padding: 10px 20px;
+        display: block;
+        transition: 0.3s;
+        border-left: 4px solid transparent;
+        font-family: 'Poppins', sans-serif;
+    }
+
+    .mob_main_menu li {
+        border: 1px solid #DDEDFC;
+    }
+
+    .mob_main_menu li a.active,
+    .mob_main_menu li a:hover {
+        color: var(--blue-button-color);
+        border-left: 4px solid var(--blue-button-color);
+        display: block;
+    }
+
+    .bg_theme {
+        position: relative;
+    }
+
+    .toggle {
+        display: block !important;
+    }
+
+}
+
+@media screen and (max-width: 575px) {
+    .layer_info {
+        z-index: 1;
+        position: absolute;
+        top: 10% !important;
+        left: 50%;
+        width: 100%;
+        transform: translatex(-50%);
+    }
+}
+
+@media screen and (max-width: 575px){
+    .inner-ga-part{
+        width: 160px!important;
+        height: 160px!important;
+        object-fit: cover;
+    }
+    a.pfeilLinks{
+        left: 40%!important;
+    }
+    a.pfeilRechts{
+        right: 40%!important;
+    }
+    
+}
+    
+
+
+/* @media (min-width: 576px) {
+    .col-sm-6{
+        width: 50%;
+        flex: 0 0 auto;
+    }
+} */
+
+/* xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx    media Query end   xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx */
+
+/* ========================================== home banner section CSS ================================= */
+
+.item {
+    height: 100% !important;
+}
+
+.slider1_image {
+    width: 100% !important;
+    height: 100% !important;
+    overflow: hidden !important;
+}
+
+.slider1_image img {
+    object-fit: cover !important;
+    width: 100% !important;
+    max-height: 100% !important;
+
+}
+
+.slider1_image::before {
+    background: linear-gradient(180deg, rgba(18, 20, 24, 0) 0%, #0e0f12 100%);
+    bottom: 0;
+    content: "";
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.layer_info {
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    transform: translatex(-50%);
+    padding: 20px 0;
+}
+
+.view_btn {
+    background-color: var(--blue-button-color);
+    color: var(--white-color);
+    border: 1px solid var(--blue-button-color);
+    transition: 0.3s;
+}
+
+.view_btn:hover {
+    background-color: var(--white-color);
+    color: var(--blue-button-color);
+    border: 1px solid var(--blue-button-color);
+}
+
+#slider1 .owl-dots {
+    position: absolute;
+    bottom: 4%;
+    left: 50%;
+    transform: translatex(-50%);
+    background-color: rgba(255, 255, 255, 0.251);
+    border-radius: 20px;
+    height: 18px;
+}
+
+#slider1 .owl-dots .owl-dot span {
+    width: 10px;
+    height: 10px;
+    margin: 4px 8px !important;
+    background: var(--black-color) !important;
+    display: block;
+    transition: opacity .2s ease;
+    border-radius: 30px;
+}
+
+#slider1.owl-theme .owl-dots .owl-dot.active span {
+    background-color: var(--white-color) !important;
+}
+
+.tab_contant {
+    background-color: #F7F7F7;
+    padding: 20px 10px 20px 20px;
+    position: relative;
+}
+
+.box_serch .icon1 {
+    position: absolute;
+    left: 15px;
+    bottom: 18px;
+    color: #212529;
+}
+
+.box_serch .form-control {
+    border: transparent;
+    border-radius: 12px;
+    font-size: 14px;
+    padding-left: 50px !important;
+    height: 55px !important;
+}
+
+.advance_btn {
+    border: none;
+    background-color: transparent;
+}
+
+.serch_btn {
+    display: inline-block;
+    height: 55px;
+    line-height: 55px;
+    padding: 0;
+    text-align: center;
+    width: 55px;
+    color: var(--white-color);
+    border: 1px solid var(--blue-button-color);
+    background-color: var(--blue-button-color);
+    transition: 0.3s;
+}
+
+.serch_btn:hover {
+    background-color: transparent;
+    border: 1px solid var(--blue-button-color);
+    color: var(--blue-button-color);
+}
+
+.serch_btn1 {
+    color: var(--white-color);
+    border: 1px solid var(--blue-button-color);
+    background-color: var(--blue-button-color);
+    transition: 0.3s;
+}
+
+.serch_btn1:hover {
+    background-color: transparent;
+    border: 1px solid var(--blue-button-color);
+    color: var(--blue-button-color);
+}
+
+.modal-dialog {
+    max-width: 662px !important;
+}
+
+.checkbox-style1 .form-check-input {
+    margin-bottom: 15px !important;
+}
+
+.nav-tabs .nav-link {
+    color: var(--p-teg-color) !important;
+}
+
+.nav-tabs .nav-link.active {
+    color: var(--blue-button-color) !important;
+    font-weight: 600 !important;
+}
+
+/* ========================================== our partners section CSS ================================= */
+
+.partners_image img {
+    width: 122px !important;
+    object-fit: cover;
+    margin: 0 auto;
+}
+
+/* ========================================== slider home feature section CSS ================================= */
+
+.apartment-contant {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    padding-top: 40px;
+    right: 0;
+    top: 0;
+    color: var(--text-color);
+}
+
+#slider3 .owl-dots {
+    display: inline-block !important;
+    margin-top: 20px;
+    background-color: rgba(211, 210, 210, 0.634);
+    position: absolute;
+    border-radius: 20px;
+    height: 18px;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+#slider3 .owl-dots .owl-dot span {
+    width: 10px;
+    height: 10px;
+    margin: 4px 8px !important;
+    background: var(--black-color) !important;
+    display: block;
+    transition: opacity .2s ease;
+    border-radius: 30px;
+}
+
+#slider3.owl-theme .owl-dots .owl-dot.active span {
+    background-color: var(--blue-button-color) !important;
+}
+
+/* ========================================== Featured properties section CSS ================================= */
+
+.featured_part {
+    background-color: #F7F7F7;
+}
+
+.property_layer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0);
+    transition: 0.3s;
+}
+
+.property_layer a {
+    color: #fff;
+    border: 2px solid #FFF;
+    border-radius: 50%;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    font-size: 12px;
+    text-align: center;
+    margin: 3px;
+    cursor: pointer;
+    transition: 0.3s;
+    display: none;
+}
+
+.property_layer a:hover {
+    background-color: var(--blue-button-color);
+    color: var(--white-color);
+    border: 2px solid var(--blue-button-color);
+}
+
+.list_thumb:hover .property_layer a {
+    display: block;
+}
+
+.list_thumb:hover .property_layer {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.list_thumb {
+    position: relative;
+}
+
+.property-tag {
+    background-color: var(--blue-button-color);
+    font-size: 10px;
+    font-weight: 600;
+    padding: 6px 14px;
+    border-radius: 2px;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: inline-block;
+    z-index: 2;
+    position: absolute;
+    top: 15px;
+    left: 15px;
+}
+
+.price_part {
+    background-color: rgba(255, 255, 255, 0.878);
+    border-radius: 6px;
+    color: var(--blue-button-color);
+    font-size: 16px !important;
+    font-weight: 800;
+    padding: 4px 12px;
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    z-index: 2;
+}
+
+.listing_style {
+    margin-bottom: 30px;
+    overflow: hidden;
+    position: relative;
+    background-color: var(--white-color);
+    box-shadow: 0 0 20px 0 rgba(62, 28, 131, 0.1);
+    border-radius: 8px;
+}
+
+.list_contant {
+    padding: 20px;
+}
+
+.list-title a {
+    color: var(--text-color);
+}
+
+.list-title a:hover {
+    text-decoration: underline !important;
+    color: var(--blue-button-color);
+}
+
+.list-location {
+    font-size: 15px;
+    color: var(--p-teg-color);
+}
+
+.featu_img {
+    width: 25px;
+    height: 25px;
+    background: #edf1f9;
+    border-radius: 50%;
+    margin-right: 7px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.featu_img img {
+    width: 13px;
+}
+
+.list_feature p {
+    color: #616e96;
+    font-size: 15px;
+}
+
+.contact_btn {
+    background-color: var(--blue-button-color);
+    color: var(--white-color);
+    border: 1px solid var(--blue-button-color);
+    transition: 0.3s;
+    border-radius: 20px;
+}
+
+.contact_btn:hover {
+    background-color: transparent;
+    color: var(--blue-button-color);
+    border: 1px solid var(--blue-button-color);
+}
+
+.more_btn {
+    background-color: var(--blue-button-color);
+    color: var(--white-color);
+    border: 1px solid var(--blue-button-color);
+}
+
+.more_btn:hover {
+    background-color: transparent;
+    color: var(--blue-button-color);
+    border: 1px solid var(--blue-button-color);
+}
+
+.btn-close {
+    background-color: var(--blue-button-color) !important;
+    opacity: 1 !important;
+    color: white !important;
+    background-image: url(../image/close-01.png) !important;
+}
+
+/* ========================================== our services section CSS ================================= */
+
+.services_contant {
+    height: 100%;
+    padding: 20px 20px 0px 20px;
+    text-align: center;
+    margin: 0 auto 30px;
+    border: 1px solid #dbe8fb;
+    border-radius: 8px;
+    transition: 0.3s;
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 0px 16px;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+.services_image {
+    height: 70px;
+    width: 70px;
+    background-color: white;
+    box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.10), 0 3px 3px 0 rgba(0, 0, 0, 0.10);
+    margin: 0 auto;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.services_image img {
+    width: 40px;
+}
+
+.services_contant h5 a {
+    color: var(--text-color);
+}
+
+.services_contant:hover h5 a {
+    color: var(--blue-button-color);
+}
+
+.services_contant:hover {
+    border: 1px solid rgb(120, 155, 200);
+}
+
+/* ========================================== recently propertis section CSS ================================= */
+
+.recently_properties {
+    background-color: #F7F7F7;
+}
+
+.nav-pills .nav-link.active {
+    background-color: var(--blue-button-color) !important;
+    border-radius: 0 !important;
+    border: 1px solid var(--blue-button-color);
+}
+
+.nav-pills .nav-link {
+    background-color: transparent !important;
+    border-radius: 0 !important;
+    margin-left: 10px;
+    color: var(--black-color);
+    border: 1px solid var(--blue-button-color) !important;
+}
+
+/* ========================================== popular places section CSS ================================= */
+
+.popular_place_box {
+    height: 100% !important;
+}
+
+.place_image {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 100% !important;
+
+}
+
+.place_image img {
+    width: 100%;
+    object-fit: cover;
+    height: 100% !important;
+}
+
+.palce_layer {
+    background-color: rgba(0, 0, 0, 0.429);
+    border-radius: 3px;
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 100%;
+}
+
+.properties_contant .properties_info {
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+/* ========================================== help section CSS ================================= */
+
+.help_part {
+    background-color: #F7F7F7;
+}
+
+.help_icon img {
+    width: 100px;
+}
+
+.help_inner_part {
+    border-radius: 8px;
+    box-shadow: 0 0 20px 0 rgba(62, 28, 131, 0.1);
+    background-color: white;
+    border: 1px solid #dee2e6;
+}
+
+/* ========================================== looking section CSS ================================= */
+
+.looking_info {
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+    border-radius: 10px;
+    padding: 20px 20px;
+}
+
+/* ========================================== footer section CSS ================================= */
+
+.footer_part {
+    background-color: #252c41;
+}
+
+.colum1 p {
+    font-size: 15px;
+    color: #dde4fb;
+}
+
+.colum2 {
+    font-size: 15px;
+    color: #dde4fb;
+    text-transform: uppercase;
+}
+
+.colum1 img {
+    width: 150px;
+}
+
+.footer_contact li {
+    padding-left: 30px;
+    margin-bottom: 15px;
+    font-size: 13px;
+    position: relative;
+}
+
+.footer_contact li i {
+    position: absolute;
+    top: 5px;
+    left: 0;
+}
+
+.footer_contact li a {
+    text-transform: lowercase;
+    color: #dde4fb;
+}
+
+.colum3 .quik_link a {
+    color: #dde4fb;
+    font-size: 16px;
+    transition: 0.5s;
+}
+
+.colum3 .quik_link a:hover {
+    letter-spacing: 1px;
+}
+
+.copyright_part {
+    border-top: 1px solid #ECEDF2;
+    background-color: #1B2132;
+}
+
+.copyright_part a {
+    color: #c0c0c0;
+    transition: 0.3s;
+}
+
+.copyright_part a:hover {
+    color: var(--p-teg-color);
+}
+
+.footer_icon li {
+    margin-left: 10px;
+}
+
+.footer_icon li a {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    line-height: 40px;
+    border: 1px solid #c0c0c0;
+    transition: 0.3s;
+}
+
+.footer_icon li a:hover {
+    background-color: white;
+    color: var(--blue-button-color) !important;
+}
+
+/* ========================================== sub banner section CSS ================================= */
+
+.properties_page {
+    background-color: #f4f7fb;
+}
+
+.sub_banner {
+    /* background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(../image/about.jpg); */
+    background-image: url(../image/home-2.png);
+    height: 280px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    position: relative;
+    background-color: #f4f7fb;
+}
+
+.sub-title-text {
+    position: absolute;
+    top: 50%;
+    transform: translatey(-50%);
+}
+
+.option_bar {
+    margin-bottom: 30px;
+    background-color: white;
+    border-radius: 3px;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
+
+.heading-icon {
+    background-color: var(--blue-button-color);
+    color: var(--white-color);
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 18px;
+    border-radius: 4px;
+}
+
+.sorting-options .list_style {
+    background-color: var(--blue-button-color);
+    color: var(--white-color);
+    padding: 6px 10px;
+    border-radius: 3px;
+}
+
+.sorting-options .grid_style {
+    color: var(--blue-button-color);
+    padding: 6px 10px;
+    border-radius: 3px;
+    border: 1px solid var(--blue-button-color);
+}
+
+.sidebar_properties_widgebar {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
+
+.info_detail .categary_name {
+    color: var(--text-color);
+    transition: 0.3s;
+}
+
+.info_detail .categary_name:hover {
+    color: var(--blue-button-color);
+    text-decoration: underline !important;
+}
+
+.recent_properties .recent_place_image img {
+    width: 90px !important;
+    object-fit: cover;
+    border-radius: 5px;
+}
+
+.recent_place_image_info a {
+    color: var(--text-color);
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.recent_place_image_info a:hover {
+    color: var(--blue-button-color);
+    text-decoration: underline !important;
+}
+
+.recent_place_image_info .list-location {
+    font-size: 14px;
+    color: #4e5c79;
+}
+
+.helping_center .location_con {
+    font-size: 40px;
+    color: var(--blue-button-color);
+}
+
+.helpin_center_text h6 {
+    color: var(--blue-button-color);
+    font-weight: 600;
+}
+
+.helpin_center_text p {
+    color: #535353;
+    font-size: 13px;
+}
+
+.helpin_center_text p a {
+    color: #535353;
+}
+
+/* ========================================== about section CSS ================================= */
+
+.agent_part {
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
+
+.agent_social li a {
+    height: 35px;
+    width: 35px;
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    line-height: 35px;
+    border: 1px solid #c0c0c0;
+    transition: 0.3s;
+    color: var(--blue-button-color);
+}
+
+.agent_social li {
+    margin-right: 8px;
+}
+
+.agent_social li a:hover {
+    background-color: var(--blue-button-color);
+    color: var(--white-color) !important;
+}
+
+/* ========================================== services section CSS ================================= */
+
+.services_part {
+    background-color: #f4f7fb;
+}
+
+/* ========================================== services section CSS ================================= */
+.contact_part {
+    background-color: #f4f7fb;
+}
+
+.contact_icon i {
+    background-color: var(--blue-button-color);
+    color: var(--white-color);
+    text-align: center;
+    font-size: 20px;
+    width: 45px;
+    height: 45px;
+    border-radius: 5px;
+    line-height: 45px;
+}
+
+.contact_icon_info p a {
+    color: #535353;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.contact_icon_info p a:hover {
+    color: var(--blue-button-color);
+}
+
+.contact_icon_info p {
+    color: #535353;
+    font-size: 14px;
+}
+
+.contact_form .form-control {
+    padding: 8px 12px;
+    border-radius: 0;
+}
+
+.contact_form .form-control:focus {
+    outline: 0;
+    border: 1px solid var(--blue-button-color);
+    box-shadow: none;
+}
+
+.contact_form textarea {
+    border: none;
+}
+
+.contact_form textarea {
+    padding: 8px 0 0 12px;
+    border: 1px solid #dee2e6;
+}
+
+.contact_form textarea:focus {
+    outline: 1px solid var(--blue-button-color);
+}
+
+.contact_form .form-label::after {
+    content: "*";
+    color: red;
+    padding-left: 4px;
+}
+
+.contact_form {
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%) !important;
+    border: 1px solid #dee2e6 !important;
+}
+
+.form-control:focus {
+    outline: 0;
+    border: 1px solid var(--blue-button-color);
+    box-shadow: none;
+}
+
+/* ========================================== inner-properrties-page section CSS ================================= */
+
+.inner-slider01 .item {
+    height: 100% !important;
+}
+
+.inner-properrties-page-part {
+    background-color: #f4f7fb;
+}
+
+.inner-slider-part-image {
+    width: 100% !important;
+    height: auto !important;
+    overflow: hidden !important;
+    display: block!important;
+}
+
+.inner-slider-part-image img {
+    object-fit: cover;
+    width: 100% !important;
+    max-height: 100% !important;
+}
+
+.inner-properties-name-info {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 30px;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+}
+
+.inner-properties-social-icon li {
+    text-align: center;
+}
+
+.inner-properties-social-icon li .share-01 {
+    color: #03a98a;
+    border: 1px solid #03a98a;
+    background-color: rgba(3, 169, 138, 0.1);
+    /* padding: 12px 15px; */
+    line-height: 45px;
+    display: block;
+    width: 100px;
+    height: 45px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.inner-properties-social-icon li .video-01 {
+    color: #3FA8E5;
+    border: 1px solid #3FA8E5;
+    background-color: #EBF6FD;
+    /* padding: 12px 15px; */
+    line-height: 45px;
+    display: block;
+    width: 100px;
+    height: 45px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.inner-properties-social-icon li .save-01 {
+    color: #f95d02;
+    border: 1px solid #f95d02;
+    background-color: rgba(249, 93, 2, 0.1);
+    /* padding: 12px 15px; */
+    line-height: 45px;
+    display: block;
+    width: 100px;
+    height: 45px;
+    text-align: center;
+    border-radius: 8px;
+}
+
+.inner_pro_image01 {
+    display: block;
+    overflow: hidden;
+    width: 100%;
+    height: auto;
+    position: relative;
+}
+
+.inner_pro_image01 img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    display: block;
+}
+.image_show_btn{
+    background-color: rgba(255, 255, 255, 0.878);
+    padding: 4px 8px;
+    border-radius: 6px;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+    border: 1px solid #155a9e3b;
+    transition: 0.3s;
+}
+.image_show_btn:hover{
+    border: 1px solid #155a9e;
+}
+.image_show_btn:hover a{
+    color: #155a9e95;
+}
+.image_show_btn a{
+    color: var(--blue-button-color);
+    font-weight: 600;
+    transition: 0.2s;
+}
+.img_overview{
+    width: 50px;
+    height: 50px;
+    border-radius: 8px;
+    border: 1px solid #DDDDDD;
+    text-align: center;
+    line-height: 50px;
+}
+.img_overview img{
+    width: 30px;
+}
+.avl-features span{
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background-color: rgba(5, 175, 120,0.1);
+    color: #05af78;
+    font-size: 10px;
+    text-align: center;
+    line-height: 22px;
+}
+
+/* ========================================== inner-gallery-page section CSS ================================= */
+
+.inner-gallery-page{
+    background-color: #f4f7fb;
+}
+.inner-ga-part{
+    padding: 8px;
+    border-radius: 4px;
+    /* width: 300px; */
+    height: 300px;
+    background-color: white;
+    box-shadow: rgba(17, 17, 26, 0.05) 0px 4px 16px, rgba(17, 17, 26, 0.05) 0px 8px 32px;
+
+}
+.inner-gallery-image{
+    width: 100%!important;
+    height: 100%!important;
+    overflow: hidden;
+}
+.inner-gallery-image img{
+    height: 100%!important;
+    width: 100%!important;
+    object-fit: cover;
+    transition: 0.5s;
+    border-radius: 4px; 
+}
+.inner-ga-part:hover .inner-gallery-image img{
+    transform: scale(1.1);
+}
+
+/* ========================================== submit-properties page section CSS ================================= */
+
+.submit-page-part{
+    background-color: #f4f7fb;
+}
+
+.inner_submit_form form .form-control,.inner_submit_form form .form-select{
+    padding: 8px 12px;
+    border-radius: 0;
+}
+
+.inner_submit_form form .form-control:focus,.inner_submit_form form .form-select:focus{
+    outline: 0;
+    border: 1px solid var(--blue-button-color);
+    box-shadow: none;
+}
+
+.inner_submit_form form textarea {
+    border: none;
+}
+
+.inner_submit_form form textarea {
+    padding: 8px 0 0 12px;
+    border: 1px solid #dee2e6;
+}
+
+.inner_submit_form form textarea:focus {
+    outline: 1px solid var(--blue-button-color);
+}
+
+.inner_submit_form form .form-label::after {
+    content: "*";
+    color: red;
+    padding-left: 4px;
+}
+
+.inner_submit_form{
+    box-shadow: 0 0.125rem 0.25rem rgb(0 0 0 / 8%) !important;
+    border: 1px solid #dee2e6 !important;
+}
+
+/* ========================================== privecy page section CSS ================================= */
+
+.privecy-page-part{
+    background-color: #f4f7fb;
+}
